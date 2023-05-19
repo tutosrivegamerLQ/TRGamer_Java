@@ -1,4 +1,4 @@
-#**TRG_Java 2023**
+#TRG_Java 2023
 
 <p align="center">
 
