@@ -1,8 +1,9 @@
-#**TRG_Java 2023** 
+#**TRG_Java 2023**
 
 <p align="center">
 
-<img src="![Java Logo](assets/java_logo.png)">
+![Java Logo](assets/java_logo.png)"
+
 </p>
 
 ## ¿Cuál es el propósito del repositorio?
