@@ -1,0 +1,56 @@
+@options
+@packages
+-classpath
+'C:/Users/PortGamer/.m2/repository/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar;C:/Users/PortGamer/.m2/repository/org/ow2/asm/asm/7.3.1/asm-7.3.1.jar;C:/Users/PortGamer/.m2/repository/org/ow2/asm/asm-commons/7.3.1/asm-commons-7.3.1.jar;C:/Users/PortGamer/.m2/repository/org/ow2/asm/asm-analysis/7.3.1/asm-analysis-7.3.1.jar;C:/Users/PortGamer/.m2/repository/org/ow2/asm/asm-tree/7.3.1/asm-tree-7.3.1.jar;C:/Users/PortGamer/.m2/repository/org/ow2/asm/asm-util/7.3.1/asm-util-7.3.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/PortGamer/Documents/NetBeansProjects/calculadroa/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/PortGamer/Documents/NetBeansProjects/calculadroa/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'calculadora 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/PortGamer/Documents/NetBeansProjects/calculadroa/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'calculadora 1.0.0 API'
+com.trg.calculadora
+C:\Users\PortGamer\.m2\repository\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar = 1685927638389
+C:\Users\PortGamer\.m2\repository\org\ow2\asm\asm\7.3.1\asm-7.3.1.jar = 1685927632885
+C:\Users\PortGamer\.m2\repository\org\ow2\asm\asm-commons\7.3.1\asm-commons-7.3.1.jar = 1685927632897
+C:\Users\PortGamer\.m2\repository\org\ow2\asm\asm-analysis\7.3.1\asm-analysis-7.3.1.jar = 1685927633952
+C:\Users\PortGamer\.m2\repository\org\ow2\asm\asm-tree\7.3.1\asm-tree-7.3.1.jar = 1685927632791
+C:\Users\PortGamer\.m2\repository\org\ow2\asm\asm-util\7.3.1\asm-util-7.3.1.jar = 1685927633359
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\src\main\java = 1684617023142
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\allclasses-index.html = 1685985419323
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\allpackages-index.html = 1685985419380
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\copy.svg = 1685985419584
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\element-list = 1685985418896
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\help-doc.html = 1685985419555
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\index-all.html = 1685985419498
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\index.html = 1685985419512
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\jquery-ui.overrides.css = 1685985419731
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\member-search-index.js = 1685985419393
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\module-search-index.js = 1685985419384
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\overview-tree.html = 1685985419260
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\package-search-index.js = 1685985419388
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\script.js = 1685985419581
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\search-page.js = 1685985419712
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\search.html = 1685985419507
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\search.js = 1685985419708
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\serialized-form.html = 1685985419164
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\stylesheet.css = 1685985419577
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\tag-search-index.js = 1685985419395
+C:\Users\PortGamer\Documents\NetBeansProjects\calculadroa\target\apidocs\type-search-index.js = 1685985419391
